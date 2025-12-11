@@ -116,8 +116,6 @@ int main() {
 ```
 
 
-
-
 ## Output:
 <img width="1836" height="990" alt="image" src="https://github.com/user-attachments/assets/fe19b837-1daf-4bc1-b2fc-6a776a5c295b" />
 
